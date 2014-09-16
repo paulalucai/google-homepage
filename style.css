@@ -1,0 +1,112 @@
+.main {
+	padding-top: 180px;
+}
+
+.nav ul {
+	list-style-type: none;
+	padding: 0;
+	float: right;
+}
+
+.nav li {
+	display: inline;
+	float: left;
+}
+
+a {
+	text-decoration: none;
+	display: block;
+	width: 60px;
+	font-family: Arial, sans-serif;
+	color: #444;
+	font-size: 15px;
+}
+
+a:visited {
+	color: #609;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1, form{
+	text-align: center;
+}
+
+
+.textfield {
+	width: 570px;
+	height: 27px;
+	line-height: 27px;
+}
+
+button {
+	margin: 0 auto;
+	font: bold 11px/27px Arial, sans-serif!important;
+	vertical-align: top;
+	color: #444!important;
+	background: #f5f5f5;
+	border: 1px solid #dcdcdc;
+	width: 114px;
+	height: 29px;
+	padding-left: 8px;
+	padding-right: 8px;
+	margin-bottom: 16px;
+	margin-left: 8px;
+	margin-right: 8px;
+}
+
+.footer-right {
+	list-style-type: none;
+	float: right;
+}
+
+.footer-right li {
+	display: inline;
+	float: left;
+}
+
+.footer-left {
+	list-style-type: none;
+	float: left;
+}
+
+.footer-left li {
+	display: inline-block;
+}
+
+footer a {
+	display: inline-block;
+	width: 100%;	
+	font-size: 10pt;
+}
+
+footer {
+	background: #f2f2f2;
+	border-top: 1px solid #e4e4e4;
+	line-height: 40px;
+	min-width: 99%;
+	bottom: 0;
+	position: absolute;
+}
+
+footer a {
+	margin-right: 15px;
+}
+
+footer ul {
+	padding: 0 0 0 20px;
+}
+
+footer .footer-left {
+	float:left;
+	margin: 0;
+	margin-left: 20px;
+}
+
+footer .footer-right {
+	float: right;
+	margin: 0;
+	margin-right: 20px;
+}
